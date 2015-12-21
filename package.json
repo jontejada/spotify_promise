@@ -1,0 +1,11 @@
+{
+  "name": "spotify_promise",
+  "version": "1.0.0",
+  "description": "refactored Spotofy artist request page using promises",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
